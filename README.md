@@ -1,5 +1,5 @@
 # Tugas9-IBD-RifqiAnugrah-195410238
-Tugas 9 Infrastruktur Big Data
+Tugas 9 Infrastruktur Big Data - ENDPOINT BACKEND DENGAN BAHASA PEMOGRAMAN RUST
 
 Dilakukan proses operasi CRUD sederhana untuk mengelola Data Hero, dibutuhkan beberapa data pendukung yaitu :
 Create:POST /hero
